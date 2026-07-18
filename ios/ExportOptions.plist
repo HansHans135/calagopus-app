@@ -6,10 +6,12 @@
 	<string>app-store-connect</string>
 	<key>signingStyle</key>
 	<string>manual</string>
+	<key>teamID</key>
+	<string>G4LXL97NF9</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>me.hans0805.calagopus</key>
-		<string>YOUR_PROVISIONING_PROFILE_NAME</string>
+		<string>Calagopus</string>
 	</dict>
 </dict>
 </plist>
