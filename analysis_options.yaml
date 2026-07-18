@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # State.build's `context` is identical to State.context, so guarding it
+    # with State.mounted is correct; the lint can't tell and false-positives
+    # throughout the UI code.
+    use_build_context_synchronously: false
