@@ -8,7 +8,7 @@
 	<string>manual</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.example.calagopusApp</key>
+		<key>me.hans0805.calagopus</key>
 		<string>YOUR_PROVISIONING_PROFILE_NAME</string>
 	</dict>
 </dict>
